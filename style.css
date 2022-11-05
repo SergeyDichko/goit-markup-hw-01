@@ -1,0 +1,58 @@
+
+body{
+}
+a{
+    text-decoration: none;
+    color:#212121;
+}
+a:hover{
+    color: #2196F3;
+}
+header{
+    width: 1600px;
+    height: 80px;
+    border: 2px solid red;
+
+}
+.wrap{
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.logo{
+display: inline;
+}
+span{
+    color: #2196F3;
+}
+h4{
+    font-size: 26px;
+}
+nav {
+display: inline;
+}
+li{
+display: inline-block;
+margin-left: 50px;
+}
+
+.contacts {
+    display: inline;
+    margin-left: 254px;
+}
+
+.title {}
+
+.columns {}
+
+.columns-column {}
+
+.images {}
+
+.team {}
+
+.cards {}
+
+.cards-card {}
